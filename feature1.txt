@@ -1,1 +1,3 @@
 feature1 first commit
+Changes for conflict by feature 2
+Hi How are you?
